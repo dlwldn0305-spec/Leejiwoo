@@ -1,0 +1,400 @@
+body{
+    margin: 0px;
+}
+#container{
+    width: 393px;
+    height: 852px;
+    background-color: #BA1518;
+    overflow: hidden;
+    position: relative;
+    display: flex;          
+    justify-content: center;
+    align-items: center;
+}
+#container2{
+    width: 393px;
+    height: 852px;
+    background-color: #ffffff;
+    overflow: hidden;
+    position: relative;
+    display: flex;          
+    justify-content: center;
+    align-items: center;
+}
+#n1{
+    font-size: 15px;
+    position: absolute;
+    left: 115px;
+    top: 215px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#n2{
+    font-size: 15px;
+    position: absolute;
+    left: 274px;
+    top: 360px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#n3{
+    font-size: 15px;
+    position: absolute;
+    left: 94px;
+    top: 503px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#n4{
+    font-size: 15px;
+    position: absolute;
+    left: 215px;
+    top: 623px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#n5{
+    font-size: 15px;
+    position: absolute;
+    left: 87px;
+    top: 747px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#star1{
+    font-size: 22px;
+    text-align: center;
+    line-height: 125%;
+    top: 43px;
+    color: #ffffff;
+    position:absolute;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+#cam1{
+    position: absolute;
+    left: 41px;
+    top: 140px;
+  width: 168px;
+}
+#vio1{
+    position: absolute;
+    left: 230px;
+    top: 114px;
+    width: 135px;
+    transform: rotate(12deg)
+}
+#dior1{
+    position: absolute;
+    left: 47px;
+    top: 438px;
+    width: 113px;
+}
+#gentle1{
+    position: absolute;
+    left: 50px;
+    top: 340px;
+    width: 40px;
+    transform: rotate(21deg)
+}
+#water1{
+    position: absolute;
+    left: 252px;
+    top: 599px;
+    width: 113px;
+}
+#pencil1{
+    position: absolute;
+    left: 161px;
+    top: 567px;
+    width: 124px;
+    transform: rotate(-9deg)
+}
+#photoshop1{
+    position: absolute;
+    left: 41px;
+    top: 700px;
+    width: 109px;
+    transform: rotate(13deg)
+}
+
+
+a {
+  color: inherit; 
+}
+#n1-1{
+    font-size: 18px;
+    position: absolute;
+    left: 50px;
+    top: 70px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#ask1{
+    font-size: 18px;
+    position: absolute;
+    left: 50px;
+    top: 107px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 140%;
+}
+#answer1{
+    font-size: 16px;
+    position: absolute;
+    left: 50px;
+    top: 512px;
+    width: 293px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 150%;
+}
+#cam2{
+    position: absolute;
+    left: 63px;
+    top: 195px;
+  width: 267px;
+}
+
+
+
+
+
+
+#n2-1{
+    font-size: 18px;
+    position: absolute;
+    left: 50px;
+    top: 70px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#ask2{
+    font-size: 18px;
+    position: absolute;
+    left: 90px;
+    top: 66px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 140%;
+}
+#answer2{
+    font-size: 16px;
+    position: absolute;
+    left: 50px;
+    top: 599px;
+    width: 293px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 150%;
+}
+#vio2{
+    position: absolute;
+    left: 114px;
+    top: 145px;
+  width: 166px;
+}
+
+
+
+
+#n3-1{
+    font-size: 18px;
+    position: absolute;
+    left: 50px;
+    top: 70px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#ask3{
+    font-size: 18px;
+    position: absolute;
+    left: 50px;
+    top: 107px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 140%;
+}
+#answer3{
+    font-size: 16px;
+    position: absolute;
+    left: 50px;
+    top: 511px;
+    width: 293px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 150%;
+}
+#purfume1{
+    position: absolute;
+    left: 145px;
+    top: 165px;
+  width: 330px;
+}
+#purfume2{
+    position: absolute;
+    left: 26px;
+    top: 245px;
+  width: 226px;
+}
+
+
+
+
+#n4-1{
+    font-size: 18px;
+    position: absolute;
+    left: 50px;
+    top: 70px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#ask4{
+    font-size: 18px;
+    position: absolute;
+    left: 50px;
+    top: 107px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 140%;
+}
+#answer4{
+    font-size: 16px;
+    position: absolute;
+    left: 50px;
+    top: 511px;
+    width: 293px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 150%;
+}
+#water1{
+    position: absolute;
+    left: 252px;
+    top: 599px;
+  width: 113px;
+}
+#pencil2{
+    position: absolute;
+    left: 52px;
+    top: 194px;
+  width: 275px;
+}
+#nostalgia{
+    font-size: 18px;
+    position: absolute;
+    left: 50px;
+    top: 107px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 140%;
+}
+#nostalgia1{
+    font-size: 16px;
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    width: 293px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 150%;
+}
+#nostalgia2{
+    font-size: 10px;
+    position: absolute;
+    top: 450px;
+    width: 293px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 150%;
+    text-align: center;
+}
+#ptsd{
+    position: absolute;
+    left: 26px;
+    top: 245px;
+  width: 226px;
+}
+
+
+
+#n5-1{
+    font-size: 18px;
+    position: absolute;
+    left: 50px;
+    top: 70px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#ask5{
+    font-size: 18px;
+    position: absolute;
+    left: 50px;
+    top: 107px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 140%;
+}
+#answer5{
+    font-size: 16px;
+    position: absolute;
+    left: 50px;
+    top: 511px;
+    width: 293px;
+    color: #BA1518;
+    font-family: "sandoll-achim", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 150%;
+}
+#photoshop2{
+    position: absolute;
+    left: 108px;
+    top: 249px;
+  width: 177px;
+}
